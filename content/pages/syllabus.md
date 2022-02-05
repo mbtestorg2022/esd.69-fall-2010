@@ -22,17 +22,126 @@ Students will be required to complete assigned readings and actively participate
 Calendar
 --------
 
-| SES # | LECTURE TOPICS AND INSTRUCTORS |
-| --- | --- |
-| 1 | Introduction - Joseph Coughlin |
-| 2 | Health care systems from a health policy perspective - Stan Finkelstein |
-| 3 | Health care systems from an engineering systems perspective - Joel Moses |
-| 4 | Performance measures in health care - Stan Finkelstein |
-| 5 | Student midterm presentations and class discussion |
-| 6 | Systems perspectives on safety - Joseph Coughlin and guest Nancy Leveson |
-| 7 | Innovator's prescription - Video presentation: Clayton M. Christensen |
-| 8 | Managing process change - Guest Steven J. Spear |
-| 9 | Health care and information technology - Guest Peter Szolovits |
-| 10 | Variation and uncertainty in clinical decision I - Guests Steven J. Spear and Karen Sepucha |
-| 11 | Variation and uncertainty in clinical decision II - Guest Karen Sepucha |
-| 12 | Student final presentations and class discussion
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS AND INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction - Joseph Coughlin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Health care systems from a health policy perspective - Stan Finkelstein
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Health care systems from an engineering systems perspective - Joel Moses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Performance measures in health care - Stan Finkelstein
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Student midterm presentations and class discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Systems perspectives on safety - Joseph Coughlin and guest Nancy Leveson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Innovator's prescription - Video presentation: Clayton M. Christensen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Managing process change - Guest Steven J. Spear
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Health care and information technology - Guest Peter Szolovits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Variation and uncertainty in clinical decision I - Guests Steven J. Spear and Karen Sepucha
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Variation and uncertainty in clinical decision II - Guest Karen Sepucha
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student final presentations and class discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
