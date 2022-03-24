@@ -53,11 +53,11 @@ Slides ([PDF]({{< baseurl >}}/resources/mitesd_69f10_lecture2))
 
 Institute of Medicine. "[Crossing the Quality Chasm: A New Health System for the 21st century](http://www.nap.edu/openbook.php?record_id=10027&page=1)." Washington, DC: National Academies Press, 2001. (Link to executive summary)
 
-Institute of Medicine. "Crossing the Quality Chasm: A New Health System for the 21st Century." Washington, DC: National Academies Press, 2001. Report Brief: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://books.nap.edu/html/quality_chasm/reportbrief.pdf))
+Institute of Medicine. "Crossing the Quality Chasm: A New Health System for the 21st Century." Washington, DC: National Academies Press, 2001. Report Brief: ([PDF](http://books.nap.edu/html/quality_chasm/reportbrief.pdf))
 
 Institute of Medicine. "[To Err is Human: Building a Safer Health Care System](http://www.nap.edu/openbook.php?record_id=9728&page=1)." Washington, DC: National Academies Press, 2000. (Link to executive summary)
 
-Institute of Medicine. "To Err is Human: Building a Safer Health Care System." Washington, DC: National Academies Press, 1999. Report Brief: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nationalacademies.org/hmd/~/media/Files/Report%20Files/1999/To-Err-is-Human/To%20Err%20is%20Human%201999%20%20report%20brief.pdf))
+Institute of Medicine. "To Err is Human: Building a Safer Health Care System." Washington, DC: National Academies Press, 1999. Report Brief: ([PDF](http://www.nationalacademies.org/hmd/~/media/Files/Report%20Files/1999/To-Err-is-Human/To%20Err%20is%20Human%201999%20%20report%20brief.pdf))
 
 
 {{< tdclose >}}
@@ -78,7 +78,7 @@ Slides ([PDF - 3.9MB]({{< baseurl >}}/resources/mitesd_69f10_lecture3))
 
 Grunden, Naida. Chapter 2 in _The Pittsburgh Way to Efficient Healthcare: Improving Patient Care Using Toyota Based Methods_. New York, NY: Productivity Press. ISBN: 9781563273674.
 
-National Academy of Engineering and Institute of Medicine. "Building a Better Delivery System: A New Engineering/Healthcare Partnership." Washington, DC: National Academies Press, 2005. PDF Summary: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.nap.edu/nap-cgi/report.cgi?record_id=11378&type=pdfxsum))
+National Academy of Engineering and Institute of Medicine. "Building a Better Delivery System: A New Engineering/Healthcare Partnership." Washington, DC: National Academies Press, 2005. PDF Summary: ( [PDF](http://www.nap.edu/nap-cgi/report.cgi?record_id=11378&type=pdfxsum))
 
 Spear, Steven J. "[Fixing Health Care from the Inside, Today](http://hbr.org/2005/09/fixing-health-care-from-the-inside-today/ar/1#)." _Harvard Business Review_ (2005).
 
@@ -125,7 +125,7 @@ Decision support team slides ([PDF]({{< baseurl >}}/resources/mitesd_69f10_ds_mi
 
 Courtesy Ralph A. Rodriguez, Vincent Balgos, and Jenny Son. Used with permission.
 
-Predictive modeling team slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_69f10_prmdlng_mdtrm))
+Predictive modeling team slides ([PDF]({{< baseurl >}}/resources/mitesd_69f10_prmdlng_mdtrm))
 
 Courtesy Terry Hu, Kangse Kim, Jeongyeon Shim, and Sung Min Yo. Used with permission.
 
@@ -155,7 +155,7 @@ Systems perspectives on safety - Joseph Coughlin and guest Nancy Leveson
 
 Duvall, Tyler. "[Unclogging Transportation](http://www.nationalaffairs.com/publications/detail/unclogging-transportation)." _National Affairs_, no. 3 (Spring 2010).
 
-Leveson, Nancy. "A New Accident Model for Engineering Safer Systems." _Safety Science_ 42 (2004). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf))
+Leveson, Nancy. "A New Accident Model for Engineering Safer Systems." _Safety Science_ 42 (2004). ([PDF](http://sunnyday.mit.edu/accidents/safetyscience-single.pdf))
 
 Leveson, Nancy. "Engineering for a Safer World." Draft, Section II and III (2010). Expected date of publication by MIT Press: Fall 2011. ([Online version](http://sunnyday.mit.edu/safer-world/))
 
